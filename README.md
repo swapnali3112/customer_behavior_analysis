@@ -1,7 +1,7 @@
-# customer_behavior_analysis
-data analytics project showcasing customer behavior analytics using python,sql,power bi
+# Customer_Behavior_Analysis
+**data analytics project showcasing customer behavior analytics using python,sql,power bi**
 
-👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
+**👨🏻‍💻Customer Behavior Data Analyst Portfolio Project**
 This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
 
 This project is perfect for:
@@ -76,6 +76,8 @@ MIT — feel free to fork, star, and use in your portfolio.
 I am an AI Engineer dedicated to architecting intelligent, data-driven solutions that bridge the gap between raw data and autonomous insights. My work integrates the structural reliability of the SQL/Python/Power BI stack with the transformative capabilities of Generative AI.
 
 I don't just visualize data; I build systems that understand it. From optimizing high-performance data pipelines to deploying LLM-powered applications, I am passionate about creating scalable, production-ready tools that turn information into intelligence. For me, every project is a masterclass in precision, and I thrive on the challeng
+
+
 💼 LinkedIn: Swapnali Kadam 
 www.linkedin.com/in/swapnali-kadam-38005a286
 
