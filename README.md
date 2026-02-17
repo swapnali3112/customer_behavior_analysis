@@ -1,4 +1,4 @@
-<img width="1108" height="614" alt="image" src="https://github.com/user-attachments/assets/02e887d7-7f92-4f9c-b57e-bdb35b2ff995" /># customer_behavior_analysis
+# customer_behavior_analysis
 data analytics project showcasing customer behavior analytics using python,sql,power bi
 
 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
@@ -29,8 +29,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 🛠️ How to Use This Project
 Clone the repository
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone [https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+cd customer-trends-data-analysis-SQL-Python-PowerBI](https://github.com/swapnali3112/customer_behavior_analysis.git)
 
 
 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
@@ -72,6 +72,15 @@ Build presentation deck using Gamma AI
 MIT — feel free to fork, star, and use in your portfolio.
 
 👨‍💻 About the Author:
+
+I am an AI Engineer dedicated to architecting intelligent, data-driven solutions that bridge the gap between raw data and autonomous insights. My work integrates the structural reliability of the SQL/Python/Power BI stack with the transformative capabilities of Generative AI.
+
+I don't just visualize data; I build systems that understand it. From optimizing high-performance data pipelines to deploying LLM-powered applications, I am passionate about creating scalable, production-ready tools that turn information into intelligence. For me, every project is a masterclass in precision, and I thrive on the challeng
+💼 LinkedIn: Swapnali Kadam 
+www.linkedin.com/in/swapnali-kadam-38005a286
+
+Let’s connect professionally 
+
 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
 
 
